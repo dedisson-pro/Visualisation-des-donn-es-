@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: linen;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Sections */
+section {
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    text-align: center;
+}
+
+/* Titres */
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: darkblue;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: midnightblue;
+}
+
+/* Listes */
+ul {
+    margin-left: 0;
+}
+
+/* Tableau */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th {
+    background-color: lightsteelblue;
+    color: black;
+    padding: 0;
+}
+
+td {
+    padding: 0;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid gray;
+}
+
+/* Footer */
+footer {
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+  }
